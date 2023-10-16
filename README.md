@@ -3,7 +3,7 @@ A script that monitors whether a Bluetooth device is connected or not. If the de
 Tested only on Debian 12 gnome.
 
 
-    curl https://raw.githubusercontent.com/daboynb/linux_bluetooth_unlock/main/Btmanager.sh | sh
+    wget https://raw.githubusercontent.com/daboynb/linux_bluetooth_unlock/main/Btmanager.sh && chmod +x Btmanager.sh && ./Btmanager.sh
 
 # Images
 
